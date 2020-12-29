@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wearables on dnv</title>
-    <link>http://dvme.github.io/categories/wearables/</link>
+    <link>http://dnv32.github.io/categories/wearables/</link>
     <description>Recent content in wearables on dnv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://dvme.github.io/categories/wearables/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://dnv32.github.io/categories/wearables/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our lightweight eyewear work is summarized in a paper and available through UIST 2020 archive!</title>
-      <link>http://dvme.github.io/2020/10/our-lightweight-eyewear-work-is-summarized-in-a-paper-and-available-through-uist-2020-archive/</link>
+      <link>http://dnv32.github.io/2020/10/our-lightweight-eyewear-work-is-summarized-in-a-paper-and-available-through-uist-2020-archive/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://dvme.github.io/2020/10/our-lightweight-eyewear-work-is-summarized-in-a-paper-and-available-through-uist-2020-archive/</guid>
+      <guid>http://dnv32.github.io/2020/10/our-lightweight-eyewear-work-is-summarized-in-a-paper-and-available-through-uist-2020-archive/</guid>
       <description>&lt;p&gt;This post briefly summarizes the work I&amp;rsquo;ve done while at Google Research, around 2018-2019 timeframe.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Multiple Input Multiple Output Switch aka MIMOSA went open source!</title>
-      <link>http://dvme.github.io/2020/09/multiple-input-multiple-output-switch-aka-mimosa-went-open-source/</link>
+      <link>http://dnv32.github.io/2020/09/multiple-input-multiple-output-switch-aka-mimosa-went-open-source/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://dvme.github.io/2020/09/multiple-input-multiple-output-switch-aka-mimosa-went-open-source/</guid>
+      <guid>http://dnv32.github.io/2020/09/multiple-input-multiple-output-switch-aka-mimosa-went-open-source/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
   
   &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
@@ -31,7 +31,7 @@
   &lt;/div&gt;
   
   &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
-    &lt;img src=&#34;http://dvme.github.io/posts/2020/mimosa.png&#34; alt=&#34;image&#34;&gt;
+    &lt;img src=&#34;http://dnv32.github.io/posts/2020/mimosa.png&#34; alt=&#34;image&#34;&gt;
   &lt;/div&gt;
   
 &lt;/div&gt;

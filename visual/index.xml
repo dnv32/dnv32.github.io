@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visual on dnv</title>
-    <link>http://dvme.github.io/visual/</link>
+    <link>http://dnv32.github.io/visual/</link>
     <description>Recent content in Visual on dnv</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://dvme.github.io/visual/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://dnv32.github.io/visual/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
