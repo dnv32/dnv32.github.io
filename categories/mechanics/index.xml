@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mechanics on dnv</title>
+    <link>http://dvme.github.io/categories/mechanics/</link>
+    <description>Recent content in mechanics on dnv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://dvme.github.io/categories/mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our lightweight eyewear work is summarized in a paper and available through UIST 2020 archive!</title>
+      <link>http://dvme.github.io/2020/10/our-lightweight-eyewear-work-is-summarized-in-a-paper-and-available-through-uist-2020-archive/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://dvme.github.io/2020/10/our-lightweight-eyewear-work-is-summarized-in-a-paper-and-available-through-uist-2020-archive/</guid>
+      <description>&lt;p&gt;This post briefly summarizes the work I&amp;rsquo;ve done while at Google Research, around 2018-2019 timeframe.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multiple Input Multiple Output Switch aka MIMOSA went open source!</title>
+      <link>http://dvme.github.io/2020/09/multiple-input-multiple-output-switch-aka-mimosa-went-open-source/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://dvme.github.io/2020/09/multiple-input-multiple-output-switch-aka-mimosa-went-open-source/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+    &lt;p&gt;MIMOSA is designed to be the most versatile user interface for wide veriety of applications. The project just is now open-source hardware and the materials are available on Github.&lt;/p&gt;
+&lt;p&gt;The hardware is based on versatile nRF52840, with rich libraries support. Also can be configured to work with CircuitPython such that it is very easy to configure for everyone! More firmware and software work will be available soon.&lt;/p&gt;
+
+  &lt;/div&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+    &lt;img src=&#34;http://dvme.github.io/posts/2020/mimosa.png&#34; alt=&#34;image&#34;&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+
+
+  
+  
+
+
+&lt;a  href=&#34;https://github.com/google/mimosa&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
+  Github Page
+&lt;/a&gt;
+ &lt;/br&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

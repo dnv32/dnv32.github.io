@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trips on dnv</title>
+    <link>http://dvme.github.io/trips/</link>
+    <description>Recent content in Trips on dnv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://dvme.github.io/trips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moscow, Russia</title>
+      <link>http://dvme.github.io/2020/12/moscow-russia/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://dvme.github.io/2020/12/moscow-russia/</guid>
+      <description>Test test tes</description>
+    </item>
+    
+    <item>
+      <title>Tehran, Iran</title>
+      <link>http://dvme.github.io/2020/12/tehran-iran/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://dvme.github.io/2020/12/tehran-iran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frasier, Colorado</title>
+      <link>http://dvme.github.io/2020/11/frasier-colorado/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://dvme.github.io/2020/11/frasier-colorado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South Lake Tahoe, California</title>
+      <link>http://dvme.github.io/2020/09/south-lake-tahoe-california/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://dvme.github.io/2020/09/south-lake-tahoe-california/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mammoth Lakes, California</title>
+      <link>http://dvme.github.io/2020/08/mammoth-lakes-california/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://dvme.github.io/2020/08/mammoth-lakes-california/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black Rock City, Nevada</title>
+      <link>http://dvme.github.io/2019/08/black-rock-city-nevada/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dvme.github.io/2019/08/black-rock-city-nevada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alaska</title>
+      <link>http://dvme.github.io/2017/04/alaska/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://dvme.github.io/2017/04/alaska/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

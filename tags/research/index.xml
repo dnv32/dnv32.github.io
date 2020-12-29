@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on dnv</title>
+    <link>http://dvme.github.io/tags/research/</link>
+    <description>Recent content in research on dnv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://dvme.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our lightweight eyewear work is summarized in a paper and available through UIST 2020 archive!</title>
+      <link>http://dvme.github.io/2020/10/our-lightweight-eyewear-work-is-summarized-in-a-paper-and-available-through-uist-2020-archive/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://dvme.github.io/2020/10/our-lightweight-eyewear-work-is-summarized-in-a-paper-and-available-through-uist-2020-archive/</guid>
+      <description>&lt;p&gt;This post briefly summarizes the work I&amp;rsquo;ve done while at Google Research, around 2018-2019 timeframe.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
